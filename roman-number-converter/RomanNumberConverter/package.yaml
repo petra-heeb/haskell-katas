@@ -1,6 +1,6 @@
 name:                RomanNumberConverter
 version:             0.1.0.0
-github:              "<https://github.com/petra-heeb/haskell-katas/tree/main/roman-number-converter>"
+#github:              "<https://github.com/petra-heeb/haskell-katas/roman-number-converter>"
 license:             BSD3
 author:              "Petra Heeb"
 maintainer:          "example@example.com"
@@ -17,7 +17,7 @@ extra-source-files:
 # To avoid duplicated efforts in documentation and dealing with the
 # complications of embedding Haddock markup inside cabal files, it is
 # common to point users to the README.md file.
-description:         Please see the README on GitHub at <https://github.com/petra-heeb/haskell-katas>
+description:         Please see the README on GitHub at <https://github.com/petra-heeb/haskell-katas/roman-number-converter/RomanNumberConverter>
 
 dependencies:
 - base >= 4.7 && < 5
