@@ -11,4 +11,5 @@ Some coding katas in haskell.
 | rsa                    | https://codingdojo.org/kata/rsa/           |
 | code cracker           | https://codingdojo.org/kata/CodeCracker/   |
 | gilded rose            | https://codingdojo.org/kata/gilded-rose/   |
+| cupcake                | https://codingdojo.org/kata/cupcake/       |
 
