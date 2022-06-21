@@ -12,4 +12,4 @@ Some coding katas in haskell.
 | code cracker           | https://codingdojo.org/kata/CodeCracker/   |
 | gilded rose            | https://codingdojo.org/kata/gilded-rose/   |
 | cupcake                | https://codingdojo.org/kata/cupcake/       |
-
+| number in words        | https://codingdojo.org/kata/NumbersInWords/|
